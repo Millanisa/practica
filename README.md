@@ -1,2 +1,2 @@
 # practica
-este es un repositero para practicar 
+este es un repositorio para practicar 
